@@ -43,9 +43,14 @@ const Timeline = () => {
   // }, []);
 
   return (
-    <div>
-      Timeline
-    </div>
+    <Section>
+      <SectionDivider />
+      <br />
+      <SectionTitle>About Me</SectionTitle>
+      <SectionText>
+        Hello There! I am Abhay Jagtap, pre-final year student currently studying in IIIT Vadodara. I am passionate about web developement. In my free time, I solve problems on LeetCode and read tech articles. 
+      </SectionText>
+    </Section>
   );
 };
 
