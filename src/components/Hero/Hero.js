@@ -12,9 +12,9 @@ const Hero = () => (
         My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        I am Abhay Jagtap. I am a 3rd year student studying at IIIT Vadodara.
+        I am Abhay Jagtap. I'm a pre-final year student @ IIIT Vadodara.
       </SectionText>
-      <Button onClick={() => window.location = 'https://github.com'}>Learn More</Button>
+      <Button onClick={() => window.location = 'https://www.linkedin.com/in/abhay-jagtap-765116201/'}>Learn More</Button>
     </LeftSection>
   </Section>
 );
