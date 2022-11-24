@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/2.png',
     tags: ['React', 'Django'],
     source: 'https://github.com/iSmart-Research-Scholar',
-    visit: 'https://google.com',
+    visit: 'https://github.com/iSmart-Research-Scholar',
     id: 1,
   },
   {
@@ -22,8 +22,8 @@ export const projects = [
     description: "The web development project is to build a website for making friends,sharing photos and chatting.The main task of the project is to make effective relational database to manage all data.",
       image: '/images/3.jpg',
       tags: ['HTML', 'CSS', 'Javascript', 'MySQL'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/Abhay-Jagtap4/social_media_website',
+    visit: 'https://github.com/Abhay-Jagtap4/social_media_website',
     id: 2,
   },
   // {
