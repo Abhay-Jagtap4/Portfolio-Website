@@ -4,8 +4,8 @@ import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalCompon
 import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
-  { number: 681, text: 'IICC Round 2 Rank'},
-  { number: 3226, text: 'IICC Round 1 Rank', },
+  { number: 681, text: 'IICC Round 2 AIR'},
+  { number: 3226, text: 'IICC Round 1 AIR', },
   { number: 200 + "+", text: 'DSA Questions', },
   // { number: 5000, text: 'Github Stars', }
 ];
